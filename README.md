@@ -1,1 +1,1 @@
-# vue2-basic-components-
+# vue2-basic-components
